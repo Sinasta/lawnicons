@@ -10853,4 +10853,13 @@
   <item component="ComponentInfo{zettamedia.bflix/zettamedia.bflix.activity.IntroActivity}" drawable="bflix" name="비플릭스 ~~ BFLIX" />
   <item component="ComponentInfo{com.starbucks.co/com.starbucks.co2.ui.intro.IntroActivity}" drawable="starbucks" name="스타벅스 ~~ Starbucks" />
   <item component="ComponentInfo{space.takashima.keypo/org.mozc.android.inputmethod.japanese.LauncherActivity}" drawable="keyboard" name="ﾀｸﾄ ｷｰﾎﾞｰﾄﾞ ~~ Takt keyboard" />
+  <item component="ComponentInfo{pl.patrykgoworowski.mintlift/pl.patrykgoworowski.mintlift.HomeActivity}" drawable="google_fit" name="LiftApp" />
+  <item component="ComponentInfo{bruhcollective.itaysonlab.jetispot/bruhcollective.itaysonlab.jetispot.MainActivity}" drawable="oto_music" name="Jetispot" />
+  <item component="ComponentInfo{de.ingdiba.bankingapp/com.ing.mobile.diba.startup.SplashActivity}" drawable="wallet" name="ING Banking" />
+  <item component="ComponentInfo{com.tombursch.kitchenowl/com.tombursch.kitchenowl.MainActivity}" drawable="generic_silverware" name="KitchenOwl" />
+  <item component="ComponentInfo{com.lagradost.cloudstream3.prerelease/com.lagradost.cloudstream3.ui.account.AccountSelectActivity}" drawable="cloudstream" name="CloudStream Beta" />
+  <item component="ComponentInfo{com.badmanners.murglar2/com.badmanners.murglar.MainActivity}" drawable="ambient_music_mod" name="Murglar 2" />
+  <item component="ComponentInfo{com.limajuice.liftlog/crc64c19caa2d62e7cbe8.MainActivity}" drawable="just_another_workout_timer" name="LiftLog" />
+  <item component="ComponentInfo{de.enough.enough_mail_app/de.enough.enough_mail_app.MainActivity}" drawable="gmail" name="Maily" />
+  <item component="ComponentInfo{com.opennutritracker.ont.opennutritracker/com.opennutritracker.ont.opennutritracker.MainActivity}" drawable="calorie_carb_and_fat_counter" name="OpenNutriTracker" />
 </resources>
